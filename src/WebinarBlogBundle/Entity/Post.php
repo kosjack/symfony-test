@@ -4,7 +4,7 @@ namespace WebinarBlogBundle\Entity;
 
 
 use Doctrine\ORM\Mapping as ORM;
-
+//wewewew
 class Post
 {
     /**

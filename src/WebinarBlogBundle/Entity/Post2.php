@@ -28,7 +28,7 @@ class Post
      * @ORM\Column(type="text")
      */
     private $content;
-
+    
 
     /**
      * Get id
