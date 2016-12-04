@@ -1,0 +1,4 @@
+services:
+#    lux_site_user.example:
+#        class: LuxSiteUserBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

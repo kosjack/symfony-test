@@ -1,0 +1,4 @@
+services:
+#    webinar_blog.example:
+#        class: WebinarBlogBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

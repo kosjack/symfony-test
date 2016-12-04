@@ -1,0 +1,7 @@
+webinar_blog_post:
+    resource: "@WebinarBlogBundle/Resources/config/routing/post.yml"
+    prefix:   /post
+
+webinar_blog_homepage:
+    path:     /
+    defaults: { _controller: WebinarBlogBundle:Default:index }

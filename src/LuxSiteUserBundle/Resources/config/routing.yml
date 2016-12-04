@@ -1,0 +1,5 @@
+lux_site_user_homepage:
+    path:     /
+    defaults: { _controller: LuxSiteUserBundle:Default:index }
+
+

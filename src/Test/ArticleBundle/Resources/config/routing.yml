@@ -1,0 +1,11 @@
+test_article_category:
+    resource: "@TestArticleBundle/Resources/config/routing/category.yml"
+    prefix:   /category
+
+test_article_article:
+    resource: "@TestArticleBundle/Resources/config/routing/article.yml"
+    prefix:   /article
+
+test_article_homepage:
+    path:     /
+    defaults: { _controller: TestArticleBundle:Default:index }
