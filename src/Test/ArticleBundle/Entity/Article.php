@@ -13,6 +13,8 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity
  */
+
+// New Comment
 class Article
 {
     /**
